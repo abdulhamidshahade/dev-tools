@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS cache / Copilot / IntelliSense
+**/CopilotIndices/
+*.db
+
+# Build output
+bin/
+obj/
+
+# Logs & backups
+*.log
+*backup*
