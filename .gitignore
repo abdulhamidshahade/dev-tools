@@ -16,3 +16,8 @@ obj/
 # Logs & backups
 *.log
 *backup*
+
+#ignore files
+DevTools.API/appsettings.json
+DevTools.API/appsettings.Development.json
+DevTools.API/Properties/launchSettings.json
